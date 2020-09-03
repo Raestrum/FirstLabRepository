@@ -1,4 +1,2 @@
 "# FirstLabRepository" 
-"# FirstLabRepository" 
-# FirstLabRepository
-# FirstLabRepository
+Максим 6 ПОИТ
